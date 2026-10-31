@@ -1,4 +1,4 @@
-# Hi, I'm Maham 👋
+# Hi, I'm Maham 
 
 **AI Automation & Backend Engineer**
 
